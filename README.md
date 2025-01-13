@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Systems Analyst / IT Business Analyst<br>- Transitioning to Data Science: Aiming to become a Data Scientist<br>- MBA Student in AI and Big Data: Focus on deep learning, optimization, and predictive tools</p>
+<p align="left">- Systems Analyst / IT Business Analyst<br>- Transitioning to Data Science/Machine Learning Rolest<br>- MBA in AI and Big Data: Focus on deep learning, optimization, and predictive tools</p>
 
 ###
 
