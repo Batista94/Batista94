@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Systems Analyst / IT Business Analyst<br>- Transitioning to Data Science/Machine Learning Rolest<br>- MBA in AI and Big Data: Focus on deep learning, optimization, and predictive tools</p>
+<p align="left">- Systems analyst with over 5 years' experience in agile projects and solutions involving artificial intelligence, specialized in optimizing processes and supporting strategic decisions with data. Specialist in optimizing processes, managing end-to-end projects and translating business requirements into strategic technological solutions. Proven expertise in predictive analysis and generating insights for strategic decisions, with a strong focus on information security and agile methodologies.<br>- Transitioning to Data Science/Machine Learning Rolest<br>- MBA in AI and Big Data: Focus on deep learning, optimization, and predictive tools</p>
 
 ###
 
