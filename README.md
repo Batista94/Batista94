@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">- Systems analyst with over 5 years' experience in agile projects and solutions involving artificial intelligence, specialized in optimizing processes and supporting strategic decisions with data. Specialist in optimizing processes, managing end-to-end projects and translating business requirements into strategic technological solutions. Proven expertise in predictive analysis and generating insights for strategic decisions, with a strong focus on information security and agile methodologies.<br>- Transitioning to Data Science/Machine Learning Rolest<br>- MBA in AI and Big Data: Focus on deep learning, optimization, and predictive tools</p>
+<p align="left">- Professional with a background in Artificial Intelligence and Big Data, experienced in data analysis and process optimization in the sugar-energy sector. Acts as an intermediary between business and technology, leading the gathering of requirements and the implementation of automated solutions that directly impact operational efficiency.
+
+Developed applied projects in Machine Learning and Deep Learning, creating time series, classification, and neural network models using Scikit-learn, TensorFlow, and Keras. Knowledge in predictive analytics, hyperparameter tuning, and feature engineering, with active repositories on GitHub for practical validation. Interested in MLOps and model deployment in the cloud (AWS SageMaker, Flink, S3).</p>
 
 ###
 
