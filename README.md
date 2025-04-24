@@ -1,12 +1,21 @@
-<h1 align="left">About me</h1>
+## About me
 
-<p align="left">
-- Professional with a background in Artificial Intelligence and Big Data, experienced in data analysis and process optimization in the sugar-energy sector. Acts as an intermediary between business and technology, leading the gathering of requirements and the implementation of automated solutions that directly impact operational efficiency.
-</p>
+Driven by a genuine passion for technology and innovation, I am constantly seeking to expand my knowledge—currently diving deeper into Machine Learning to strengthen my technical foundation and deliver impactful solutions.
 
-<p align="left">
-Developed applied projects in Machine Learning and Deep Learning, creating time series, classification, and neural network models using Scikit-learn, TensorFlow, and Keras. Knowledge in predictive analytics, hyperparameter tuning, and feature engineering, with active repositories on GitHub for practical validation. Interested in MLOps and model deployment in the cloud (AWS SageMaker, Flink, S3).
-</p>
+With a robust background in Artificial Intelligence and process optimization, I excel at bridging the gap between business and technology. I have a proven track record of leading cross-functional teams, gathering requirements, and delivering automated solutions that drive measurable operational efficiency and business value.
+
+My hands-on experience includes developing and deploying Machine Learning and Deep Learning projects—ranging from time series forecasting and classification to neural network modeling—using tools such as Scikit-learn, TensorFlow, and Keras. I am skilled in predictive analytics, hyperparameter tuning, and feature engineering, and I actively maintain GitHub repositories to validate and share practical knowledge.
+
+I am particularly interested in MLOps and cloud-based model deployment (AWS SageMaker, Flink, S3), always seeking to connect cutting-edge technology with strategic business needs.
+
+---
+
+**What sets me apart as a Program Manager:**
+- Strategic vision combined with strong technical expertise.
+- Leadership in digital transformation and automation projects.
+- Clear communication across technical and executive teams.
+- Focus on measurable results and continuous improvement.
+- Commitment to lifelong learning and excellence in delivery.
 
 <h2 align="left">Machine Learning & NLP Projects</h2>
 
